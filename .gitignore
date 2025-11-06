@@ -47,3 +47,20 @@ logs/
 *.xlsx
 *.json
 uploads/
+
+# Tkinter version (not for web deployment)
+TestLogAnalyzer-1.50.py
+TestLogAnalyzer-1.50.spec
+compile-exe.bat
+*.ico
+*.bat
+Logics.txt
+ReadMe.txt
+
+# Test data folders
+AddMetric/
+HexagonTest/
+NEW-METHOD/
+Pastis/
+Pegu/
+Shrub/
